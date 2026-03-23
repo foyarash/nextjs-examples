@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { createRedirectionIoMiddleware } from "./rio";
+import { createRedirectionIoMiddleware } from "@redirection.io/vercel-middleware/next";
 
 const myExistingMiddleware = () => {
   return NextResponse.next();
