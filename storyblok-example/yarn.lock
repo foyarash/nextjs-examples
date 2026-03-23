@@ -524,10 +524,10 @@
   resolved "https://registry.yarnpkg.com/@redirection.io/redirectionio/-/redirectionio-3.0.0.tgz#1139523b543c1d9a62189393b6b79e3d4592ef3e"
   integrity sha512-oDvMBuaB9I4dSSzZ2xRflkWG7c2uf8LTum/qHCLCOMphLzVteREAzzAR+SrGbgzkbdYL8VcvDvLqZlrM2L4UBg==
 
-"@redirection.io/vercel-middleware@^0.5.1":
-  version "0.5.1"
-  resolved "https://registry.yarnpkg.com/@redirection.io/vercel-middleware/-/vercel-middleware-0.5.1.tgz#7ef6c79816bc5f246b8ca39bb4cc33350ae70359"
-  integrity sha512-qKiFOiSk6W//bpgOXbDHwIGC6lJdmPcJWMW+uJMWBVt4akxsVfL7jTvnl9AI81U5YENF2LdwWF3ceiY5QgBZGw==
+"@redirection.io/vercel-middleware@^0.5.2":
+  version "0.5.2"
+  resolved "https://registry.yarnpkg.com/@redirection.io/vercel-middleware/-/vercel-middleware-0.5.2.tgz#811fbdd8dae9abbbb1925425f1f9e4f4c7448bf1"
+  integrity sha512-HkoxD9DpgfKQYdnh2iGX0fPSOoonKxzOwecRZkULxhJMsWdKX64Dn/n7sM5GPvb7SfWAm2NkBGwg3Cy3NElikQ==
   dependencies:
     "@redirection.io/redirectionio" "^3.0.0"
     "@vercel/edge" "^1.1.2"

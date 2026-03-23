@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@redirection.io/vercel-middleware": "^0.5.1",
+    "@redirection.io/vercel-middleware": "^0.5.2",
     "next": "16.2.1",
     "next-intl": "^3.21.1",
     "react": "^19",

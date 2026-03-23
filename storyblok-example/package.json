@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@redirection.io/vercel-middleware": "^0.5.1",
+    "@redirection.io/vercel-middleware": "^0.5.2",
     "@storyblok/react": "^3.0.15",
     "next": "16.2.1",
     "react": "^19",

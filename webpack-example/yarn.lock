@@ -740,9 +740,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@redirection.io/vercel-middleware@npm:^0.5.1":
-  version: 0.5.1
-  resolution: "@redirection.io/vercel-middleware@npm:0.5.1"
+"@redirection.io/vercel-middleware@npm:^0.5.2":
+  version: 0.5.2
+  resolution: "@redirection.io/vercel-middleware@npm:0.5.2"
   dependencies:
     "@redirection.io/redirectionio": "npm:^3.0.0"
     "@vercel/edge": "npm:^1.1.2"
@@ -752,7 +752,7 @@ __metadata:
   peerDependenciesMeta:
     next:
       optional: true
-  checksum: 10c0/a3d826efc102b3cfcf3dbe6aedb94bf7e4bcce806598506a369c0c22e655b47f5a0022fe104e4000ed051e8fe4e02957b9c0db2efdc1148845aa8a637e5742ca
+  checksum: 10c0/22966b69de56824aa960a71f0b07ccd7b2cc3de63abc4f8dfc192b5753e67735ed282db0aa2a680ae784e8a26543a327d7764e52941a180ea69275770ac7c8e3
   languageName: node
   linkType: hard
 
@@ -4387,7 +4387,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "webpack-example@workspace:."
   dependencies:
-    "@redirection.io/vercel-middleware": "npm:^0.5.1"
+    "@redirection.io/vercel-middleware": "npm:^0.5.2"
     "@tailwindcss/postcss": "npm:^4"
     "@types/node": "npm:^20"
     "@types/react": "npm:^19"
